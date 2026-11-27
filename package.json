@@ -1,0 +1,12 @@
+
+{
+  "name": "dev-coffee",
+  "version": "1.0.0",
+  "description": "API REST para gerenciamento de pedidos da Dev Coffee",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Bruno Martinho",
+  "license": "ISC"
+}
